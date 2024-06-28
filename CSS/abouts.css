@@ -1,0 +1,14 @@
+.header-text h1{
+    color: white;
+    font-family:inherit;
+    font-size: 60px;
+    padding-bottom: 30px;
+    font-weight: 100 !important;
+}
+.header-text p{
+    font-family: inherit;
+    color: rgb(210, 236, 238);
+   font-size: 20px;
+   margin-top: 10px;
+   margin-bottom:50px;
+}
